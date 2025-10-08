@@ -54,8 +54,8 @@ datapulse/
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/yourusername/datapulse.git
-   cd datapulse
+   git clone https://github.com/yourusername/mini_etl_con_datos_mexico.git
+   cd mini_etl_con_datos_mexico
    ```
 
 2. **Set up a virtual environment:**
@@ -120,4 +120,5 @@ Passionate about applied AI, data engineering, and open-source analytics.
 This project is open-source under the [MIT License](LICENSE).
 
 > ⚠️ *Data courtesy of SEDEMA (Mexico City’s Air Quality Monitoring System – SIMAT). Processed for educational purposes only.*
+
 
