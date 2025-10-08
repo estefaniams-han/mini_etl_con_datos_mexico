@@ -111,7 +111,7 @@ Each row represents one pollutant’s average concentration for an ISO week. Mar
 
 **Estefanía Marmolejo Sandoval** – *AI Engineer & Data Enthusiast*
 Passionate about applied AI, data engineering, and open-source analytics.
-💼 [LinkedIn](https://www.linkedin.com/in/estefaniamarmolejo) • 🐙 [GitHub](https://github.com/yourusername)
+💼 [LinkedIn](https://www.linkedin.com/in/estefania-marmolejo/) • 🐙 [GitHub](https://github.com/estefaniams-han)
 
 ---
 
@@ -120,3 +120,4 @@ Passionate about applied AI, data engineering, and open-source analytics.
 This project is open-source under the [MIT License](LICENSE).
 
 > ⚠️ *Data courtesy of SEDEMA (Mexico City’s Air Quality Monitoring System – SIMAT). Processed for educational purposes only.*
+
