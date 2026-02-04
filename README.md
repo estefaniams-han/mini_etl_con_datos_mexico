@@ -1,10 +1,10 @@
-# 🐍 DataPulse: Mexico Air Quality Mini-ETL
+# DataPulse: Mexico Air Quality Mini-ETL
 
 **DataPulse** is a hands-on data engineering project built to practice real ETL workflows using open environmental datasets from Mexico. It extracts hourly air quality measurements from the official SEDEMA dataset, transforms and aggregates them into weekly summaries, and generates automatic reports with plots and key insights.
 
 ---
 
-## 🌎 Project Overview
+## Project Overview
 
 This project demonstrates how to design a lightweight, reproducible ETL pipeline in **Python** — focused on data collection, cleaning, transformation, and visualization. It uses **real data** published by SEDEMA (Mexico City Air Quality Monitoring System – SIMAT).
 
@@ -15,11 +15,11 @@ Each execution:
 3. Aggregates all records by ISO week and pollutant.
 4. Generates a weekly Markdown report with charts.
 
-> 💡 The goal: automate real-world data processing and reporting using open data from Mexico.
+> The goal: automate real-world data processing and reporting using open data from Mexico.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Category    | Tools                                                                                                               |
 | ----------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -30,7 +30,7 @@ Each execution:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 datapulse/
@@ -49,7 +49,7 @@ datapulse/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repo:**
 
@@ -84,7 +84,7 @@ datapulse/
 
 ---
 
-## 📊 Example Output
+## Example Output
 
 ```csv
 year_week,contaminante,valor_promedio,valor_min,valor_max,mediciones
@@ -97,7 +97,7 @@ Each row represents one pollutant’s average concentration for an ISO week. Mar
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 * Building modular ETL pipelines (extract → transform → load → visualize)
 * Handling messy real-world CSVs (metadata headers, encoding, separators)
@@ -107,11 +107,10 @@ Each row represents one pollutant’s average concentration for an ISO week. Mar
 
 ---
 
-## 👩‍💻 Author
+## Author
 
-**Estefanía Marmolejo Sandoval** – *AI Engineer & Data Enthusiast*
+**Estefanía Marmolejo Sandoval** – *AI Engineer*
 Passionate about applied AI, data engineering, and open-source analytics.
-💼 [LinkedIn](https://www.linkedin.com/in/estefania-marmolejo/) • 🐙 [GitHub](https://github.com/estefaniams-han)
 
 ---
 
@@ -120,5 +119,6 @@ Passionate about applied AI, data engineering, and open-source analytics.
 This project is open-source under the [MIT License](LICENSE).
 
 > ⚠️ *Data courtesy of SEDEMA (Mexico City’s Air Quality Monitoring System – SIMAT). Processed for educational purposes only.*
+
 
 
